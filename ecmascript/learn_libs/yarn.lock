@@ -10,7 +10,7 @@
     "@angular-devkit/core" "8.0.4"
     rxjs "6.4.0"
 
-"@angular-devkit/build-angular@^0.800.6":
+"@angular-devkit/build-angular@^0.800.4":
   version "0.800.4"
   resolved "https://registry.npm.taobao.org/@angular-devkit/build-angular/download/@angular-devkit/build-angular-0.800.4.tgz#ca28b4aa1c0e3a06ff76f124e049ac17ecb70990"
   integrity sha1-yii0qhwOOgb/dvEk4EmsF+y3CZA=
@@ -111,7 +111,7 @@
   dependencies:
     tslib "^1.9.0"
 
-"@angular/cli@^8.0.6":
+"@angular/cli@^8.0.4":
   version "8.0.4"
   resolved "https://registry.npm.taobao.org/@angular/cli/download/@angular/cli-8.0.4.tgz#fd656a162634a3ce01c52293c19be1963ecf05ee"
   integrity sha1-/WVqFiY0o84BxSKTwZvhlj7PBe4=
@@ -6092,10 +6092,10 @@ typescript@3.4.4:
   resolved "https://registry.npm.taobao.org/typescript/download/typescript-3.4.4.tgz#aac4a08abecab8091a75f10842ffa0631818f785"
   integrity sha1-qsSgir7KuAkadfEIQv+gYxgY94U=
 
-typescript@^3.4.5:
-  version "3.5.2"
-  resolved "https://registry.npm.taobao.org/typescript/download/typescript-3.5.2.tgz#a09e1dc69bc9551cadf17dba10ee42cf55e5d56c"
-  integrity sha1-oJ4dxpvJVRyt8X26EO5Cz1Xl1Ww=
+typescript@~3.4.5:
+  version "3.4.5"
+  resolved "https://registry.npm.taobao.org/typescript/download/typescript-3.4.5.tgz#2d2618d10bb566572b8d7aad5180d84257d70a99"
+  integrity sha1-LSYY0Qu1ZlcrjXqtUYDYQlfXCpk=
 
 uglify-js@^3.1.4:
   version "3.6.0"
