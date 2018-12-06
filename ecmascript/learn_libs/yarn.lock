@@ -212,10 +212,28 @@
   dependencies:
     tslib "^1.9.0"
 
+"@angular/pwa@^0.800.4":
+  version "0.800.4"
+  resolved "https://registry.npm.taobao.org/@angular/pwa/download/@angular/pwa-0.800.4.tgz#e5ad4d66df6cc3b281be2c0ee938074b015f5a99"
+  integrity sha1-5a1NZt9sw7KBviwO6TgHSwFfWpk=
+  dependencies:
+    "@angular-devkit/core" "8.0.4"
+    "@angular-devkit/schematics" "8.0.4"
+    "@schematics/angular" "8.0.4"
+    parse5-html-rewriting-stream "5.1.0"
+    rxjs "6.4.0"
+
 "@angular/router@^8.0.3":
   version "8.0.3"
   resolved "https://registry.npm.taobao.org/@angular/router/download/@angular/router-8.0.3.tgz#7e9e908b9c19753d275f2ff18699a7ec13eaff1e"
   integrity sha1-fp6Qi5wZdT0nXy/xhpmn7BPq/x4=
+  dependencies:
+    tslib "^1.9.0"
+
+"@angular/service-worker@^8.0.3":
+  version "8.0.3"
+  resolved "https://registry.npm.taobao.org/@angular/service-worker/download/@angular/service-worker-8.0.3.tgz#30f5b8c8822376ad28f546eafb88c92dca1eccae"
+  integrity sha1-MPW4yIIjdq0o9Ubq+4jJLcoezK4=
   dependencies:
     tslib "^1.9.0"
 
@@ -4460,10 +4478,30 @@ parse-json@^4.0.0:
     error-ex "^1.3.1"
     json-parse-better-errors "^1.0.1"
 
+parse5-html-rewriting-stream@5.1.0:
+  version "5.1.0"
+  resolved "https://registry.npm.taobao.org/parse5-html-rewriting-stream/download/parse5-html-rewriting-stream-5.1.0.tgz#63f92c958764aea8cbe3aa68f2e5895c32068ab8"
+  integrity sha1-Y/kslYdkrqjL46po8uWJXDIGirg=
+  dependencies:
+    parse5 "^5.1.0"
+    parse5-sax-parser "^5.1.0"
+
+parse5-sax-parser@^5.1.0:
+  version "5.1.0"
+  resolved "https://registry.npm.taobao.org/parse5-sax-parser/download/parse5-sax-parser-5.1.0.tgz#ec234d23223a8054a74ff173aa3dc2da74c5bbd9"
+  integrity sha1-7CNNIyI6gFSnT/Fzqj3C2nTFu9k=
+  dependencies:
+    parse5 "^5.1.0"
+
 parse5@4.0.0:
   version "4.0.0"
   resolved "https://registry.npm.taobao.org/parse5/download/parse5-4.0.0.tgz#6d78656e3da8d78b4ec0b906f7c08ef1dfe3f608"
   integrity sha1-bXhlbj2o14tOwLkG98CO8d/j9gg=
+
+parse5@^5.1.0:
+  version "5.1.0"
+  resolved "https://registry.npm.taobao.org/parse5/download/parse5-5.1.0.tgz#c59341c9723f414c452975564c7c00a68d58acd2"
+  integrity sha1-xZNByXI/QUxFKXVWTHwApo1YrNI=
 
 parseqs@0.0.5:
   version "0.0.5"
