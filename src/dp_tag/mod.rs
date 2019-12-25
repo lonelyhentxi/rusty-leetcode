@@ -12,3 +12,4 @@ pub mod best_time_to_buy_and_sell_stock_with_cooldown_309;
 pub mod super_egg_drop_887;
 pub mod burst_balloons_312;
 pub mod coin_change_322;
+pub mod partition_equal_subset_sum_416;
