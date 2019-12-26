@@ -12,3 +12,5 @@ pub mod binary_tree_maximum_path_sum_124;
 pub mod implement_trie_prefix_tree_208;
 pub mod invert_binary_tree_226;
 pub mod house_robber_iii_337;
+pub mod path_sum_iii_437;
+pub mod merge_two_binary_trees_617;
