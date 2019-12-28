@@ -14,3 +14,11 @@ pub fn assert_nested_equivalent<T: Eq + Ord + Hash + Debug>(left: &[Vec<T>], rig
 pub fn map_to_string(strs: &[&str]) -> Vec<String> {
     strs.iter().map(|x| x.to_string()).collect()
 }
+
+pub fn map_nested_to_string(strs: &[Vec<&str>]) -> Vec<Vec<String>> {
+    strs.iter().map(|v| map_to_string(&v)).collect::<Vec<_>>()
+}
+
+pub fn assert_feq(p: f64, q: f64) {
+    assert!(f64::abs(p-q)< 1e-64);
+}
