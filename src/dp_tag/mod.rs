@@ -13,3 +13,4 @@ pub mod super_egg_drop_887;
 pub mod burst_balloons_312;
 pub mod coin_change_322;
 pub mod partition_equal_subset_sum_416;
+pub mod target_sum_494;
