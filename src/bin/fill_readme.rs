@@ -190,6 +190,7 @@ fn generate_table(tasks: Vec<BoxResult<TaskMeta>>) -> (String,Vec<Box<dyn Error>
 fn main() -> BoxResult<()> {
     let src_path = PathBuf::from("./src");
     let tasks = find_all_tasks(&src_path)?;
+    println!("Number of tasks: {}",tasks.len());
     let (table, error_task_meta) = generate_table(tasks);
     let mut contents = fs::read_to_string("./README.md")?;
     contents = Regex::new(r"<!--anker-start-->[^<>]+<!--anker-end-->").unwrap()
