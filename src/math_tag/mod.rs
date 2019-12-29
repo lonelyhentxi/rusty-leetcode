@@ -3,3 +3,4 @@ pub mod perfect_squares_279;
 pub mod find_the_duplicate_number_287;
 pub mod counting_bits_338;
 pub mod hamming_distance_461;
+pub mod powx_n_50;
