@@ -38,12 +38,14 @@ For a small amount of  questions without rust version, I will point out their pr
 | 46 | [permutations](./src/array_tag/permutations_46.rs) | rust |
 | 48 | [rotate image](./src/array_tag/rotate_image_48.rs) | rust |
 | 49 | [group anagrams](./src/string_tag/group_anagrams_49.rs) | rust |
+| 50 | [powx n](./src/math_tag/powx_n_50.rs) | rust |
 | 53 | [maximum subarray](./src/array_tag/maximum_subarray_53.rs) | rust |
 | 55 | [jump game](./src/array_tag/jump_game_55.rs) | rust |
 | 56 | [merge intervals](./src/array_tag/merge_intervals_56.rs) | rust |
 | 58 | [length of last word](./src/string_tag/length_of_last_word_58.rs) | rust |
 | 62 | [unique paths](./src/dp_tag/unique_paths_62.rs) | rust |
 | 64 | [minimum path sum](./src/dp_tag/minimum_path_sum_64.rs) | rust |
+| 65 | [valid number](./src/math_tag/valid_number_65.rs) | rust |
 | 70 | [climbing stairs](./src/dp_tag/climbing_stairs_70.rs) | rust |
 | 72 | [edit distance](./src/dp_tag/edit_distance_72.rs) | rust |
 | 75 | [sort colors](./src/sort_tag/sort_colors_75.rs) | rust |
@@ -73,6 +75,7 @@ For a small amount of  questions without rust version, I will point out their pr
 | 155 | [min stack](./src/design_tag/min_stack_155.rs) | rust |
 | 160 | [intersection of two linked lists](./src/linked_list_tag/intersection_of_two_linked_lists_160.js) | javascript |
 | 169 | [majority element](./src/array_tag/majority_element_169.rs) | rust |
+| 191 | [number of 1 bits](./src/math_tag/number_of_1_bits_191.js) | javascript |
 | 198 | [house robber](./src/dp_tag/house_robber_198.rs) | rust |
 | 200 | [number of islands](./src/search_tag/number_of_islands_200.rs) | rust |
 | 206 | [reverse linked list](./src/linked_list_tag/reverse_linked_list_206.rs) | rust |
@@ -83,6 +86,7 @@ For a small amount of  questions without rust version, I will point out their pr
 | 226 | [invert binary tree](./src/tree_tag/invert_binary_tree_226.rs) | rust |
 | 234 | [palindrome linked list](./src/linked_list_tag/palindrome_linked_list_234.rs) | rust |
 | 236 | [lowest common ancestor of binary tree](./src/tree_tag/lowest_common_ancestor_of_binary_tree_236.js) | javascript |
+| 237 | [delete node in a linked list](./src/linked_list_tag/delete_node_in_a_linked_list_237.js) | javascript |
 | 238 | [product of array except self](./src/array_tag/product_of_array_except_self_238.rs) | rust |
 | 239 | [sliding window maximum](./src/array_tag/sliding_window_maximum_239.rs) | rust |
 | 240 | [search a 2d matrix ii](./src/search_tag/search_a_2d_matrix_ii_240.js) | javascript |
@@ -111,12 +115,14 @@ For a small amount of  questions without rust version, I will point out their pr
 | 538 | [convert bst to greater tree](./src/tree_tag/convert_bst_to_greater_tree_538.rs) | rust |
 | 543 | [diameter of binary tree](./src/tree_tag/diameter_of_binary_tree_543.rs) | rust |
 | 560 | [subarray sum equals k](./src/dp_tag/subarray_sum_equals_k_560.rs) | rust |
+| 572 | [subtree os another tree](./src/tree_tag/subtree_os_another_tree_572.rs) | rust |
 | 581 | [shortest unsorted continuous subarray](./src/sort_tag/shortest_unsorted_continuous_subarray_581.rs) | rust |
 | 617 | [merge two binary trees](./src/tree_tag/merge_two_binary_trees_617.rs) | rust |
 | 621 | [task scheduler](./src/greedy_tag/task_scheduler_621.rs) | rust |
 | 647 | [palindromic substrings](./src/string_tag/palindromic_substrings_647.rs) | rust |
 | 739 | [daily temperatures](./src/array_tag/daily_temperatures_739.rs) | rust |
 | 887 | [super egg drop](./src/dp_tag/super_egg_drop_887.rs) | rust |
+| 905 | [sort array by parity](./src/array_tag/sort_array_by_parity_905.rs) | rust |
 <!--anker-end-->
 
 ## Author

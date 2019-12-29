@@ -21,3 +21,4 @@ pub mod sliding_window_maximum_239;
 pub mod move_zeroes_283;
 pub mod top_k_frequent_elements_347;
 pub mod daily_temperatures_739;
+pub mod sort_array_by_parity_905;
