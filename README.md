@@ -40,6 +40,7 @@ For a small amount of  questions without rust version, I will point out their pr
 | 49 | [group anagrams](./src/string_tag/group_anagrams_49.rs) | rust |
 | 50 | [powx n](./src/math_tag/powx_n_50.rs) | rust |
 | 53 | [maximum subarray](./src/array_tag/maximum_subarray_53.rs) | rust |
+| 54 | [spiral matrix](./src/array_tag/spiral_matrix_54.rs) | rust |
 | 55 | [jump game](./src/array_tag/jump_game_55.rs) | rust |
 | 56 | [merge intervals](./src/array_tag/merge_intervals_56.rs) | rust |
 | 58 | [length of last word](./src/string_tag/length_of_last_word_58.rs) | rust |
@@ -61,11 +62,13 @@ For a small amount of  questions without rust version, I will point out their pr
 | 102 | [binary tree level order traversal](./src/tree_tag/binary_tree_level_order_traversal_102.rs) | rust |
 | 104 | [maximum depth of binary tree](./src/tree_tag/maximum_depth_of_binary_tree_104.rs) | rust |
 | 105 | [construct binary tree from preorder and inorder traversal](./src/tree_tag/construct_binary_tree_from_preorder_and_inorder_traversal_105.rs) | rust |
+| 107 | [binary tree level order traversal ii](./src/tree_tag/binary_tree_level_order_traversal_ii_107.rs) | rust |
 | 114 | [flatten binary tree to linked list](./src/tree_tag/flatten_binary_tree_to_linked_list_114.rs) | rust |
 | 121 | [best time to buy and sell stock](./src/tree_tag/best_time_to_buy_and_sell_stock_121.rs) | rust |
 | 124 | [binary tree maximum path sum](./src/tree_tag/binary_tree_maximum_path_sum_124.rs) | rust |
 | 128 | [maximum consecutive sequence](./src/array_tag/maximum_consecutive_sequence_128.rs) | rust |
 | 136 | [single number](./src/math_tag/single_number_136.rs) | rust |
+| 138 | [copy list with random pointer](./src/linked_list_tag/copy_list_with_random_pointer_138.js) | javascript |
 | 139 | [word break](./src/dp_tag/word_break_139.rs) | rust |
 | 141 | [linked list cycle](./src/linked_list_tag/linked_list_cycle_141.js) | javascript |
 | 142 | [linked list cycle ii](./src/linked_list_tag/linked_list_cycle_ii_142.js) | javascript |
@@ -123,6 +126,7 @@ For a small amount of  questions without rust version, I will point out their pr
 | 739 | [daily temperatures](./src/array_tag/daily_temperatures_739.rs) | rust |
 | 887 | [super egg drop](./src/dp_tag/super_egg_drop_887.rs) | rust |
 | 905 | [sort array by parity](./src/array_tag/sort_array_by_parity_905.rs) | rust |
+| 946 | [validate stack sequences](./src/greedy_tag/validate_stack_sequences_946.rs) | rust |
 <!--anker-end-->
 
 ## Author
