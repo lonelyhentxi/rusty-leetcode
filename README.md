@@ -1,9 +1,9 @@
 # Rusty Leetcode
 
 <p>
-    <img alt=language src=https://img.shields.io/badge/language-rust-%23dea584>
-    <img alt=license src=https://img.shields.io/github/license/lonelyhentai/rusty-leetcode>
-    <img alt=leetcode src=https://img.shields.io/badge/question-leetcode-green.svg>
+    <img alt=language src="https://img.shields.io/badge/language-rust-%23dea584" />
+    <img alt=license src="https://img.shields.io/github/license/lonelyhentai/rusty-leetcode" />
+    <img alt=leetcode src="https://img.shields.io/badge/question-leetcode-green.svg" />
 </p>
 
 Provide all my leetcode solutions with rust language. 
@@ -76,8 +76,16 @@ For a small amount of  questions without rust version, I will point out their pr
 | 148 | [sort list](./src/sort_tag/sort_list_148.rs) | rust |
 | 152 | [maximum product subarray](./src/dp_tag/maximum_product_subarray_152.rs) | rust |
 | 155 | [min stack](./src/design_tag/min_stack_155.rs) | rust |
+| 156 | [binary tree upside down](./src/tree_tag/binary_tree_upside_down_156.rs) | rust |
+| 157 | [read n characters given read4](./src/string_tag/read_n_characters_given_read4_157.js) | javascript |
+| 158 | [read n characters given read4 ii call multiple times](./src/string_tag/read_n_characters_given_read4_ii_call_multiple_times_158.js) | javascript |
+| 159 | [longest substring with at most two distinct characters](./src/string_tag/longest_substring_with_at_most_two_distinct_characters_159.rs) | rust |
 | 160 | [intersection of two linked lists](./src/linked_list_tag/intersection_of_two_linked_lists_160.js) | javascript |
+| 161 | [one edit distance](./src/string_tag/one_edit_distance_161.rs) | rust |
+| 163 | [missing ranges](./src/array_tag/missing_ranges_163.rs) | rust |
 | 169 | [majority element](./src/array_tag/majority_element_169.rs) | rust |
+| 170 | [two sum iii data structure design](./src/math_tag/two_sum_iii_data_structure_design_170.rs) | rust |
+| 186 | [reverse words in a string ii](./src/string_tag/reverse_words_in_a_string_ii_186.rs) | rust |
 | 191 | [number of 1 bits](./src/math_tag/number_of_1_bits_191.js) | javascript |
 | 198 | [house robber](./src/dp_tag/house_robber_198.rs) | rust |
 | 200 | [number of islands](./src/search_tag/number_of_islands_200.rs) | rust |
