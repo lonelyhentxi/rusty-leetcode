@@ -103,6 +103,9 @@ For a small amount of  questions without rust version, I will point out their pr
 | 240 | [search a 2d matrix ii](./src/search_tag/search_a_2d_matrix_ii_240.js) | javascript |
 | 243 | [shortest word distance](./src/array_tag/shortest_word_distance_243.rs) | rust |
 | 244 | [shortest word distance ii](./src/search_tag/shortest_word_distance_ii_244.rs) | rust |
+| 245 | [shortest word distance iii](./src/array_tag/shortest_word_distance_iii_245.rs) | rust |
+| 246 | [strobogrammatic number](./src/math_tag/strobogrammatic_number_246.rs) | rust |
+| 247 | [strobogrammatic number ii](./src/math_tag/strobogrammatic_number_ii_247.rs) | rust |
 | 253 | [meeting rooms ii](./src/greedy_tag/meeting_rooms_ii_253.rs) | rust |
 | 279 | [perfect squares](./src/math_tag/perfect_squares_279.rs) | rust |
 | 283 | [move zeroes](./src/array_tag/move_zeroes_283.rs) | rust |
