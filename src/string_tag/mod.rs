@@ -10,6 +10,7 @@ pub mod length_of_last_word_58;
 pub mod longest_substring_with_at_most_two_distinct_characters_159;
 pub mod one_edit_distance_161;
 pub mod reverse_words_in_a_string_ii_186;
+pub mod group_shifted_strings_249;
 pub mod remove_invalid_parentheses_301;
 pub mod decode_string_394;
 pub mod find_all_anagrams_in_a_string_438;
