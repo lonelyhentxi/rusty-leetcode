@@ -1,9 +1,9 @@
 # Rusty Leetcode
 
 <p>
-    <img alt=language src="https://img.shields.io/badge/language-rust-%23dea584" />
     <img alt=license src="https://img.shields.io/github/license/lonelyhentai/rusty-leetcode" />
     <img alt=leetcode src="https://img.shields.io/badge/question-leetcode-green.svg" />
+    <img alt=language src="https://img.shields.io/github/languages/top/lonelyhentai/rusty-leetcode" />
 </p>
 
 Provide all my leetcode solutions with rust language. 
@@ -108,6 +108,9 @@ For a small amount of  questions without rust version, I will point out their pr
 | 247 | [strobogrammatic number ii](./src/math_tag/strobogrammatic_number_ii_247.rs) | rust |
 | 248 | [strobogrammatic number iii](./src/math_tag/strobogrammatic_number_iii_248.rs) | rust |
 | 249 | [group shifted strings](./src/string_tag/group_shifted_strings_249.rs) | rust |
+| 250 | [count univalue subtrees](./src/tree_tag/count_univalue_subtrees_250.rs) | rust |
+| 251 | [flatten 2d vector](./src/design_tag/flatten_2d_vector_251.rs) | rust |
+| 252 | [meeting rooms](./src/sort_tag/meeting_rooms_252.rs) | rust |
 | 253 | [meeting rooms ii](./src/greedy_tag/meeting_rooms_ii_253.rs) | rust |
 | 279 | [perfect squares](./src/math_tag/perfect_squares_279.rs) | rust |
 | 283 | [move zeroes](./src/array_tag/move_zeroes_283.rs) | rust |
