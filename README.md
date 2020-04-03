@@ -112,6 +112,9 @@ For a small amount of  questions without rust version, I will point out their pr
 | 251 | [flatten 2d vector](./src/design_tag/flatten_2d_vector_251.rs) | rust |
 | 252 | [meeting rooms](./src/sort_tag/meeting_rooms_252.rs) | rust |
 | 253 | [meeting rooms ii](./src/greedy_tag/meeting_rooms_ii_253.rs) | rust |
+| 255 | [verify preorder sequence in binary search tree](./src/tree_tag/verify_preorder_sequence_in_binary_search_tree_255.rs) | rust |
+| 256 | [paint house](./src/dp_tag/paint_house_256.rs) | rust |
+| 259 | [three sum smaller](./src/array_tag/three_sum_smaller_259.rs) | rust |
 | 279 | [perfect squares](./src/math_tag/perfect_squares_279.rs) | rust |
 | 283 | [move zeroes](./src/array_tag/move_zeroes_283.rs) | rust |
 | 287 | [find the duplicate number](./src/math_tag/find_the_duplicate_number_287.rs) | rust |
