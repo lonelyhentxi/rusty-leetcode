@@ -115,6 +115,10 @@ For a small amount of  questions without rust version, I will point out their pr
 | 255 | [verify preorder sequence in binary search tree](./src/tree_tag/verify_preorder_sequence_in_binary_search_tree_255.rs) | rust |
 | 256 | [paint house](./src/dp_tag/paint_house_256.rs) | rust |
 | 259 | [three sum smaller](./src/array_tag/three_sum_smaller_259.rs) | rust |
+| 261 | [graph valid tree](./src/search_tag/graph_valid_tree_261.rs) | rust |
+| 265 | [paint house ii](./src/dp_tag/paint_house_ii_265.rs) | rust |
+| 266 | [palindrome permutation](./src/string_tag/palindrome_permutation_266.rs) | rust |
+| 267 | [palindrome permutation ii](./src/string_tag/palindrome_permutation_ii_267.rs) | rust |
 | 279 | [perfect squares](./src/math_tag/perfect_squares_279.rs) | rust |
 | 283 | [move zeroes](./src/array_tag/move_zeroes_283.rs) | rust |
 | 287 | [find the duplicate number](./src/math_tag/find_the_duplicate_number_287.rs) | rust |
