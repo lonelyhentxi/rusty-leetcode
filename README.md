@@ -119,6 +119,9 @@ For a small amount of  questions without rust version, I will point out their pr
 | 265 | [paint house ii](./src/dp_tag/paint_house_ii_265.rs) | rust |
 | 266 | [palindrome permutation](./src/string_tag/palindrome_permutation_266.rs) | rust |
 | 267 | [palindrome permutation ii](./src/string_tag/palindrome_permutation_ii_267.rs) | rust |
+| 269 | [alien dictionary](./src/graph_tag/alien_dictionary_269.rs) | rust |
+| 270 | [closest binary search tree value](./src/tree_tag/closest_binary_search_tree_value_270.rs) | rust |
+| 271 | [encode and decode strings](./src/string_tag/encode_and_decode_strings_271.rs) | rust |
 | 279 | [perfect squares](./src/math_tag/perfect_squares_279.rs) | rust |
 | 283 | [move zeroes](./src/array_tag/move_zeroes_283.rs) | rust |
 | 287 | [find the duplicate number](./src/math_tag/find_the_duplicate_number_287.rs) | rust |
