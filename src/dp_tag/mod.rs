@@ -9,6 +9,7 @@ pub mod house_robber_198;
 pub mod maximal_square_221;
 pub mod paint_house_256;
 pub mod paint_house_ii_265;
+pub mod paint_fence_276;
 pub mod longest_increasing_subsequence_300;
 pub mod best_time_to_buy_and_sell_stock_with_cooldown_309;
 pub mod super_egg_drop_887;
