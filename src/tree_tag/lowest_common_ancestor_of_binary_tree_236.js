@@ -84,7 +84,7 @@ function TreeNode(val) {
     this.left = this.right = null;
 }
 
-module.TreeNode = TreeNode;
+exports.TreeNode = TreeNode;
 
 function testLowestCommonAncestor1() {
     let tree = {

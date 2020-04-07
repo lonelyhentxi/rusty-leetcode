@@ -126,8 +126,11 @@ For a small amount of  questions without rust version, I will point out their pr
 | 276 | [paint fence](./src/dp_tag/paint_fence_276.rs) | rust |
 | 277 | [find the celebrity](./src/graph_tag/find_the_celebrity_277.js) | javascript |
 | 279 | [perfect squares](./src/math_tag/perfect_squares_279.rs) | rust |
+| 281 | [zigzag iterator](./src/design_tag/zigzag_iterator_281.rs) | rust |
 | 283 | [move zeroes](./src/array_tag/move_zeroes_283.rs) | rust |
+| 285 | [inorder successor in bst](./src/tree_tag/inorder_successor_in_bst_285.js) | javascript |
 | 287 | [find the duplicate number](./src/math_tag/find_the_duplicate_number_287.rs) | rust |
+| 289 | [wiggle sort](./src/sort_tag/wiggle_sort_289.rs) | rust |
 | 297 | [serialize and deserialize binary tree](./src/tree_tag/serialize_and_deserialize_binary_tree_297.rb) | ruby |
 | 300 | [longest increasing subsequence](./src/dp_tag/longest_increasing_subsequence_300.rs) | rust |
 | 301 | [remove invalid parentheses](./src/string_tag/remove_invalid_parentheses_301.rs) | rust |
