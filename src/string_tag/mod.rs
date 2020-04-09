@@ -14,6 +14,7 @@ pub mod group_shifted_strings_249;
 pub mod palindrome_permutation_266;
 pub mod palindrome_permutation_ii_267;
 pub mod encode_and_decode_strings_271;
+pub mod flip_game_293;
 pub mod remove_invalid_parentheses_301;
 pub mod decode_string_394;
 pub mod find_all_anagrams_in_a_string_438;

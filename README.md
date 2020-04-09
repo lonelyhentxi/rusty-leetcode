@@ -129,8 +129,13 @@ For a small amount of  questions without rust version, I will point out their pr
 | 281 | [zigzag iterator](./src/design_tag/zigzag_iterator_281.rs) | rust |
 | 283 | [move zeroes](./src/array_tag/move_zeroes_283.rs) | rust |
 | 285 | [inorder successor in bst](./src/tree_tag/inorder_successor_in_bst_285.js) | javascript |
+| 286 | [walls and gates](./src/search_tag/walls_and_gates_286.rs) | rust |
 | 287 | [find the duplicate number](./src/math_tag/find_the_duplicate_number_287.rs) | rust |
+| 288 | [unique word abbreviation](./src/design_tag/unique_word_abbreviation_288.rs) | rust |
 | 289 | [wiggle sort](./src/sort_tag/wiggle_sort_289.rs) | rust |
+| 291 | [word pattern ii](./src/backtracking_tag/word_pattern_ii_291.rs) | rust |
+| 293 | [flip game](./src/string_tag/flip_game_293.rs) | rust |
+| 294 | [flip game ii](./src/dp_tag/flip_game_ii_294.rs) | rust |
 | 297 | [serialize and deserialize binary tree](./src/tree_tag/serialize_and_deserialize_binary_tree_297.rb) | ruby |
 | 300 | [longest increasing subsequence](./src/dp_tag/longest_increasing_subsequence_300.rs) | rust |
 | 301 | [remove invalid parentheses](./src/string_tag/remove_invalid_parentheses_301.rs) | rust |
