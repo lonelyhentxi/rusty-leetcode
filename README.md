@@ -136,7 +136,9 @@ For a small amount of  questions without rust version, I will point out their pr
 | 291 | [word pattern ii](./src/backtracking_tag/word_pattern_ii_291.rs) | rust |
 | 293 | [flip game](./src/string_tag/flip_game_293.rs) | rust |
 | 294 | [flip game ii](./src/dp_tag/flip_game_ii_294.rs) | rust |
+| 296 | [best meeting point](./src/sort_tag/best_meeting_point_296.rs) | rust |
 | 297 | [serialize and deserialize binary tree](./src/tree_tag/serialize_and_deserialize_binary_tree_297.rb) | ruby |
+| 298 | [binary tree longest consecutive sequence](./src/tree_tag/binary_tree_longest_consecutive_sequence_298.rs) | rust |
 | 300 | [longest increasing subsequence](./src/dp_tag/longest_increasing_subsequence_300.rs) | rust |
 | 301 | [remove invalid parentheses](./src/string_tag/remove_invalid_parentheses_301.rs) | rust |
 | 309 | [best time to buy and sell stock with cooldown](./src/dp_tag/best_time_to_buy_and_sell_stock_with_cooldown_309.rs) | rust |

@@ -16,6 +16,7 @@ pub mod count_univalue_subtrees_250;
 pub mod verify_preorder_sequence_in_binary_search_tree_255;
 pub mod closest_binary_search_tree_value_270;
 pub mod closest_binary_search_tree_value_ii_272;
+pub mod binary_tree_longest_consecutive_sequence_298;
 pub mod house_robber_iii_337;
 pub mod path_sum_iii_437;
 pub mod merge_two_binary_trees_617;
