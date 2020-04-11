@@ -141,6 +141,8 @@ For a small amount of  questions without rust version, I will point out their pr
 | 298 | [binary tree longest consecutive sequence](./src/tree_tag/binary_tree_longest_consecutive_sequence_298.rs) | rust |
 | 300 | [longest increasing subsequence](./src/dp_tag/longest_increasing_subsequence_300.rs) | rust |
 | 301 | [remove invalid parentheses](./src/string_tag/remove_invalid_parentheses_301.rs) | rust |
+| 302 | [smallest rectangle enclosing black pixels](./src/search_tag/smallest_rectangle_enclosing_black_pixels_302.rs) | rust |
+| 305 | [number of islands ii](./src/search_tag/number_of_islands_ii_305.rs) | rust |
 | 309 | [best time to buy and sell stock with cooldown](./src/dp_tag/best_time_to_buy_and_sell_stock_with_cooldown_309.rs) | rust |
 | 312 | [burst balloons](./src/dp_tag/burst_balloons_312.rs) | rust |
 | 322 | [coin change](./src/dp_tag/coin_change_322.rs) | rust |
