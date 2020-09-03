@@ -5,8 +5,6 @@
  */
 
 // @lc code=start
-use std::collections::hash_set::HashSet;
-
 impl Solution {
     pub fn generate_abbreviations(word: String) -> Vec<String> {
         let chars = word.chars().collect::<Vec<char>>();
