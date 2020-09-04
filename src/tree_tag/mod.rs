@@ -20,6 +20,7 @@ pub mod binary_tree_longest_consecutive_sequence_298;
 pub mod range_sum_query_2d_mutable_308;
 pub mod sparse_matrix_multiplication_311;
 pub mod binary_tree_vertical_order_traversal_314;
+pub mod largest_bst_subtree_333;
 pub mod house_robber_iii_337;
 pub mod path_sum_iii_437;
 pub mod merge_two_binary_trees_617;
