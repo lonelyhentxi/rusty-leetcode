@@ -22,5 +22,6 @@ pub mod sliding_window_maximum_239;
 pub mod shortest_word_distance_243;
 pub mod three_sum_smaller_259;
 pub mod move_zeroes_283;
+pub mod maximum_size_subarray_sum_equals_k_325;
 pub mod top_k_frequent_elements_347;
 pub mod daily_temperatures_739;
