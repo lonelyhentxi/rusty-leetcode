@@ -16,6 +16,7 @@ pub mod palindrome_permutation_ii_267;
 pub mod encode_and_decode_strings_271;
 pub mod flip_game_293;
 pub mod remove_invalid_parentheses_301;
+pub mod longest_substring_with_at_most_k_distinct_characters_340;
 pub mod decode_string_394;
 pub mod find_all_anagrams_in_a_string_438;
 pub mod palindromic_substrings_647;
