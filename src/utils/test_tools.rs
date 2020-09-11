@@ -26,7 +26,7 @@ pub fn map_nested_to_string(strs: &[Vec<&str>]) -> Vec<Vec<String>> {
 }
 
 pub fn assert_feq(p: f64, q: f64) {
-    assert!(f64::abs(p-q)< 1e-64);
+    assert!(f64::abs(p-q) < 1e-64, "assert_feq {:?} {:?} failed", p, q);
 }
 
 #[macro_export]
