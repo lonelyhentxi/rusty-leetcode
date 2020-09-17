@@ -143,12 +143,28 @@ For a small amount of  questions without rust version, I will point out their pr
 | 301 | [remove invalid parentheses](./src/string_tag/remove_invalid_parentheses_301.rs) | rust |
 | 302 | [smallest rectangle enclosing black pixels](./src/search_tag/smallest_rectangle_enclosing_black_pixels_302.rs) | rust |
 | 305 | [number of islands ii](./src/search_tag/number_of_islands_ii_305.rs) | rust |
+| 308 | [range sum query 2d mutable](./src/tree_tag/range_sum_query_2d_mutable_308.rs) | rust |
 | 309 | [best time to buy and sell stock with cooldown](./src/dp_tag/best_time_to_buy_and_sell_stock_with_cooldown_309.rs) | rust |
+| 311 | [sparse matrix multiplication](./src/tree_tag/sparse_matrix_multiplication_311.rs) | rust |
 | 312 | [burst balloons](./src/dp_tag/burst_balloons_312.rs) | rust |
+| 314 | [binary tree vertical order traversal](./src/tree_tag/binary_tree_vertical_order_traversal_314.rs) | rust |
+| 317 | [shortest distance from all buildings](./src/search_tag/shortest_distance_from_all_buildings_317.rs) | rust |
+| 320 | [generalized abbreviation](./src/backtracking_tag/generalized_abbreviation_320.rs) | rust |
 | 322 | [coin change](./src/dp_tag/coin_change_322.rs) | rust |
+| 323 | [number of connected components in an undirected graph](./src/graph_tag/number_of_connected_components_in_an_undirected_graph_323.rs) | rust |
+| 325 | [maximum size subarray sum equals k](./src/array_tag/maximum_size_subarray_sum_equals_k_325.rs) | rust |
+| 333 | [largest bst subtree](./src/tree_tag/largest_bst_subtree_333.rs) | rust |
 | 337 | [house robber iii](./src/tree_tag/house_robber_iii_337.rs) | rust |
 | 338 | [counting bits](./src/math_tag/counting_bits_338.rs) | rust |
+| 339 | [nested list weight sum](./src/search_tag/nested_list_weight_sum_339.rs) | rust |
+| 340 | [longest substring with at most k distinct characters](./src/string_tag/longest_substring_with_at_most_k_distinct_characters_340.rs) | rust |
+| 346 | [moving average from data stream](./src/array_tag/moving_average_from_data_stream_346.rs) | rust |
 | 347 | [top k frequent elements](./src/array_tag/top_k_frequent_elements_347.rs) | rust |
+| 348 | [design tic tac toe](./src/design_tag/design_tic_tac_toe_348.rs) | rust |
+| 351 | [android unlock patterns](./src/dp_tag/android_unlock_patterns_351.rs) | rust |
+| 353 | [design snake game](./src/design_tag/design_snake_game_353.rs) | rust |
+| 356 | [line reflection](./src/math_tag/line_reflection_356.rs) | rust |
+| 359 | [logger rate limiter](./src/design_tag/logger_rate_limiter_359.rs) | rust |
 | 394 | [decode string](./src/string_tag/decode_string_394.rs) | rust |
 | 399 | [evaluate division](./src/graph_tag/evaluate_division_399.rs) | rust |
 | 406 | [queue reconstruction by height](./src/greedy_tag/queue_reconstruction_by_height_406.rs) | rust |
