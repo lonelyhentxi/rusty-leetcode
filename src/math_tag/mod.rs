@@ -7,4 +7,5 @@ pub mod perfect_squares_279;
 pub mod find_the_duplicate_number_287;
 pub mod counting_bits_338;
 pub mod line_reflection_356;
+pub mod sort_transformed_array_360;
 pub mod hamming_distance_461;
