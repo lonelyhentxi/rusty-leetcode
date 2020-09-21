@@ -167,6 +167,7 @@ For a small amount of  questions without rust version, I will point out their pr
 | 359 | [logger rate limiter](./src/design_tag/logger_rate_limiter_359.rs) | rust |
 | 360 | [sort transformed array](./src/math_tag/sort_transformed_array_360.rs) | rust |
 | 361 | [bomb enemy](./src/dp_tag/bomb_enemy_361.rs) | rust |
+| 362 | [design hit counter](./src/design_tag/design_hit_counter_362.rs) | rust |
 | 394 | [decode string](./src/string_tag/decode_string_394.rs) | rust |
 | 399 | [evaluate division](./src/graph_tag/evaluate_division_399.rs) | rust |
 | 406 | [queue reconstruction by height](./src/greedy_tag/queue_reconstruction_by_height_406.rs) | rust |
