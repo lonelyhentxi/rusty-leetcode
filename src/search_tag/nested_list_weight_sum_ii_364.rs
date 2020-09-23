@@ -4,9 +4,9 @@ pub enum NestedInteger {
   List(Vec<NestedInteger>)
 }
 /*
- * @lc app=leetcode.cn id=362 lang=rust
+ * @lc app=leetcode.cn id=364 lang=rust
  *
- * [362] 敲击计数器
+ * [364] 嵌套列表权重和 ii
  */
 
 // @lc code=start

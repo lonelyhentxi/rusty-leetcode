@@ -169,6 +169,7 @@ For a small amount of  questions without rust version, I will point out their pr
 | 361 | [bomb enemy](./src/dp_tag/bomb_enemy_361.rs) | rust |
 | 362 | [design hit counter](./src/design_tag/design_hit_counter_362.rs) | rust |
 | 364 | [nested list weight sum ii](./src/search_tag/nested_list_weight_sum_ii_364.rs) | rust |
+| 366 | [find leaves of binary tree](./src/tree_tag/find_leaves_of_binary_tree_366.rs) | rust |
 | 394 | [decode string](./src/string_tag/decode_string_394.rs) | rust |
 | 399 | [evaluate division](./src/graph_tag/evaluate_division_399.rs) | rust |
 | 406 | [queue reconstruction by height](./src/greedy_tag/queue_reconstruction_by_height_406.rs) | rust |
