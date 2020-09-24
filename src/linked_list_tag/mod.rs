@@ -4,3 +4,4 @@ pub mod merge_two_sorted_lists_21;
 pub mod merge_k_sorted_lists_23;
 pub mod reverse_linked_list_206;
 pub mod palindrome_linked_list_234;
+pub mod plus_one_linked_list_369;
