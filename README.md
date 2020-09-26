@@ -172,6 +172,7 @@ For a small amount of  questions without rust version, I will point out their pr
 | 366 | [find leaves of binary tree](./src/tree_tag/find_leaves_of_binary_tree_366.rs) | rust |
 | 369 | [plus one linked list](./src/linked_list_tag/plus_one_linked_list_369.rs) | rust |
 | 370 | [range addition](./src/array_tag/range_addition_370.rs) | rust |
+| 379 | [design phone directory](./src/design_tag/design_phone_directory_379.rs) | rust |
 | 394 | [decode string](./src/string_tag/decode_string_394.rs) | rust |
 | 399 | [evaluate division](./src/graph_tag/evaluate_division_399.rs) | rust |
 | 406 | [queue reconstruction by height](./src/greedy_tag/queue_reconstruction_by_height_406.rs) | rust |
