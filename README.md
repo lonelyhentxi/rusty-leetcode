@@ -176,6 +176,7 @@ For a small amount of  questions without rust version, I will point out their pr
 | 394 | [decode string](./src/string_tag/decode_string_394.rs) | rust |
 | 399 | [evaluate division](./src/graph_tag/evaluate_division_399.rs) | rust |
 | 406 | [queue reconstruction by height](./src/greedy_tag/queue_reconstruction_by_height_406.rs) | rust |
+| 408 | [valid word abbreviation](./src/string_tag/valid_word_abbreviation_408.rs) | rust |
 | 416 | [partition equal subset sum](./src/dp_tag/partition_equal_subset_sum_416.rs) | rust |
 | 437 | [path sum iii](./src/tree_tag/path_sum_iii_437.rs) | rust |
 | 438 | [find all anagrams in a string](./src/string_tag/find_all_anagrams_in_a_string_438.rs) | rust |

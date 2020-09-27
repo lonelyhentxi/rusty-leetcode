@@ -18,5 +18,6 @@ pub mod flip_game_293;
 pub mod remove_invalid_parentheses_301;
 pub mod longest_substring_with_at_most_k_distinct_characters_340;
 pub mod decode_string_394;
+pub mod valid_word_abbreviation_408;
 pub mod find_all_anagrams_in_a_string_438;
 pub mod palindromic_substrings_647;
