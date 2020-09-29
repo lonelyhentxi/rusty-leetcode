@@ -179,6 +179,7 @@ For a small amount of  questions without rust version, I will point out their pr
 | 408 | [valid word abbreviation](./src/string_tag/valid_word_abbreviation_408.rs) | rust |
 | 411 | [minimum unique word abbreviation](./src/string_tag/minimum_unique_word_abbreviation_411.rs) | rust |
 | 416 | [partition equal subset sum](./src/dp_tag/partition_equal_subset_sum_416.rs) | rust |
+| 418 | [sentence screen fitting](./src/dp_tag/sentence_screen_fitting_418.rs) | rust |
 | 437 | [path sum iii](./src/tree_tag/path_sum_iii_437.rs) | rust |
 | 438 | [find all anagrams in a string](./src/string_tag/find_all_anagrams_in_a_string_438.rs) | rust |
 | 448 | [find all numbers disappeared in an array](./src/search_tag/find_all_numbers_disappeared_in_an_array_448.rs) | rust |

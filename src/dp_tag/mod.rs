@@ -19,5 +19,6 @@ pub mod coin_change_322;
 pub mod android_unlock_patterns_351;
 pub mod bomb_enemy_361;
 pub mod partition_equal_subset_sum_416;
+pub mod sentence_screen_fitting_418;
 pub mod target_sum_494;
 pub mod subarray_sum_equals_k_560;
