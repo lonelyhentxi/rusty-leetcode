@@ -181,6 +181,7 @@ For a small amount of  questions without rust version, I will point out their pr
 | 416 | [partition equal subset sum](./src/dp_tag/partition_equal_subset_sum_416.rs) | rust |
 | 418 | [sentence screen fitting](./src/dp_tag/sentence_screen_fitting_418.rs) | rust |
 | 426 | [convert binary search tree to sorted doubly linked list](./src/tree_tag/convert_binary_search_tree_to_sorted_doubly_linked_list_426.js) | javascript |
+| 428 | [serialize and deserialize n ary tree](./src/tree_tag/serialize_and_deserialize_n_ary_tree_428.js) | javascript |
 | 437 | [path sum iii](./src/tree_tag/path_sum_iii_437.rs) | rust |
 | 438 | [find all anagrams in a string](./src/string_tag/find_all_anagrams_in_a_string_438.rs) | rust |
 | 448 | [find all numbers disappeared in an array](./src/search_tag/find_all_numbers_disappeared_in_an_array_448.rs) | rust |
