@@ -185,6 +185,7 @@ For a small amount of  questions without rust version, I will point out their pr
 | 431 | [encode n ary tree to binary tree](./src/tree_tag/encode_n_ary_tree_to_binary_tree_431.js) | javascript |
 | 437 | [path sum iii](./src/tree_tag/path_sum_iii_437.rs) | rust |
 | 438 | [find all anagrams in a string](./src/string_tag/find_all_anagrams_in_a_string_438.rs) | rust |
+| 439 | [ternary expression parser](./src/search_tag/ternary_expression_parser_439.rs) | rust |
 | 448 | [find all numbers disappeared in an array](./src/search_tag/find_all_numbers_disappeared_in_an_array_448.rs) | rust |
 | 461 | [hamming distance](./src/math_tag/hamming_distance_461.rs) | rust |
 | 494 | [target sum](./src/dp_tag/target_sum_494.rs) | rust |
