@@ -180,6 +180,7 @@ For a small amount of  questions without rust version, I will point out their pr
 | 411 | [minimum unique word abbreviation](./src/string_tag/minimum_unique_word_abbreviation_411.rs) | rust |
 | 416 | [partition equal subset sum](./src/dp_tag/partition_equal_subset_sum_416.rs) | rust |
 | 418 | [sentence screen fitting](./src/dp_tag/sentence_screen_fitting_418.rs) | rust |
+| 425 | [word squares](./src/backtracking_tag/word_squares_425.rs) | rust |
 | 426 | [convert binary search tree to sorted doubly linked list](./src/tree_tag/convert_binary_search_tree_to_sorted_doubly_linked_list_426.js) | javascript |
 | 428 | [serialize and deserialize n ary tree](./src/tree_tag/serialize_and_deserialize_n_ary_tree_428.js) | javascript |
 | 431 | [encode n ary tree to binary tree](./src/tree_tag/encode_n_ary_tree_to_binary_tree_431.js) | javascript |
