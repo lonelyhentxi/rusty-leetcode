@@ -10,3 +10,4 @@ pub mod line_reflection_356;
 pub mod sort_transformed_array_360;
 pub mod hamming_distance_461;
 pub mod convex_polygon_469;
+pub mod find_permutation_484;
