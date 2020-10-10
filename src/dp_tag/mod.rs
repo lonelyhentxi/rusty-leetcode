@@ -21,5 +21,6 @@ pub mod bomb_enemy_361;
 pub mod partition_equal_subset_sum_416;
 pub mod sentence_screen_fitting_418;
 pub mod optimal_account_balancing_465;
+pub mod max_consecutive_ones_ii_487;
 pub mod target_sum_494;
 pub mod subarray_sum_equals_k_560;
