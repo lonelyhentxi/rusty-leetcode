@@ -197,6 +197,7 @@ For a small amount of  questions without rust version, I will point out their pr
 | 489 | [robot room cleaner](./src/search_tag/robot_room_cleaner_489.cpp) | cpp |
 | 490 | [the maze](./src/search_tag/the_maze_490.rs) | rust |
 | 494 | [target sum](./src/dp_tag/target_sum_494.rs) | rust |
+| 499 | [the maze iii](./src/search_tag/the_maze_iii_499.rs) | rust |
 | 505 | [the maze ii](./src/search_tag/the_maze_ii_505.rs) | rust |
 | 538 | [convert bst to greater tree](./src/tree_tag/convert_bst_to_greater_tree_538.rs) | rust |
 | 543 | [diameter of binary tree](./src/tree_tag/diameter_of_binary_tree_543.rs) | rust |
