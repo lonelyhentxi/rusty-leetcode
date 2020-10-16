@@ -24,6 +24,7 @@ pub mod largest_bst_subtree_333;
 pub mod house_robber_iii_337;
 pub mod find_leaves_of_binary_tree_366;
 pub mod path_sum_iii_437;
-pub mod merge_two_binary_trees_617;
+pub mod word_abbreviation_527;
 pub mod convert_bst_to_greater_tree_538;
 pub mod diameter_of_binary_tree_543;
+pub mod merge_two_binary_trees_617;
