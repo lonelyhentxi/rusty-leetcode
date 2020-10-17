@@ -27,4 +27,5 @@ pub mod moving_average_from_data_stream_346;
 pub mod top_k_frequent_elements_347;
 pub mod range_addition_370;
 pub mod sequence_reconstruction_444;
+pub mod lonely_pixel_i_531;
 pub mod daily_temperatures_739;
