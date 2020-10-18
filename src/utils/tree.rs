@@ -29,7 +29,7 @@ impl TreeNode {
       if len == 0 {
         return None;
       }
-      let root = Some(Rc::new(RefCell::new(TreeNode::new(tree_vec[0].unwrap()))));
+      let root = tree_vec[0].map(|v| Rc::new(RefCell::new(TreeNode::new(v))));
       {
         let mut working = VecDeque::new();
         working.push_back(root.clone());
@@ -53,7 +53,7 @@ impl TreeNode {
           }
         }
       }
-      root
+      root.clone()
     }
 }
 
@@ -91,7 +91,7 @@ macro_rules! lc_tree_vec {
     {
       let mut temp_vec = Vec::<Option<i32>>::new();
       temp_vec.push(None);
-      temp_vec.extend( ( lc_tree_vec![ $($rest),*  ] ).iter());
+      temp_vec.extend( ( crate::lc_tree_vec![ $($rest),*  ] ).iter());
       temp_vec
     }
   };
@@ -99,7 +99,7 @@ macro_rules! lc_tree_vec {
     {
       let mut temp_vec = Vec::<Option<i32>>::new();
       temp_vec.push( Some( $x ) );
-      temp_vec.extend( ( lc_tree_vec![ $($rest),* ]  ).iter());
+      temp_vec.extend( ( crate::lc_tree_vec![ $($rest),* ]  ).iter());
       temp_vec
     }
   };
@@ -109,7 +109,7 @@ macro_rules! lc_tree_vec {
 macro_rules! lc_tree {
   ( $($rest: tt),* ) => {
     {
-      TreeNode::build_lc_tree( lc_tree_vec![ $($rest),* ] )
+      crate::utils::tree::TreeNode::build_lc_tree( crate::lc_tree_vec![ $($rest),* ] )
     }
   };
 }

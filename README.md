@@ -234,6 +234,7 @@ For a small amount of  questions without rust version, I will point out their pr
 | 651 | [four keys keyboard](./src/dp_tag/four_keys_keyboard_651.rs) | rust |
 | 656 | [coin path](./src/dp_tag/coin_path_656.rs) | rust |
 | 660 | [remove 9](./src/math_tag/remove_9_660.rs) | rust |
+| 663 | [equal tree partition](./src/tree_tag/equal_tree_partition_663.rs) | rust |
 | 739 | [daily temperatures](./src/array_tag/daily_temperatures_739.rs) | rust |
 | 887 | [super egg drop](./src/dp_tag/super_egg_drop_887.rs) | rust |
 | 905 | [sort array by parity](./src/array_tag/sort_array_by_parity_905.rs) | rust |

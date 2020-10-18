@@ -19,7 +19,8 @@
           }
       },
       "args": ["${selectedText}"],
-      "cwd": "${workspaceFolder}"
+      "cwd": "${workspaceFolder}",
+      "sourceLanguages": ["rust"]
   },
   ]
 }
