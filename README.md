@@ -203,6 +203,7 @@ For a small amount of  questions without rust version, I will point out their pr
 | 527 | [word abbreviation](./src/tree_tag/word_abbreviation_527.rs) | rust |
 | 531 | [lonely pixel i](./src/array_tag/lonely_pixel_i_531.rs) | rust |
 | 533 | [lonely pixel ii](./src/array_tag/lonely_pixel_ii_533.rs) | rust |
+| 536 | [construct binary tree from string](./src/tree_tag/construct_binary_tree_from_string_536.rs) | rust |
 | 538 | [convert bst to greater tree](./src/tree_tag/convert_bst_to_greater_tree_538.rs) | rust |
 | 543 | [diameter of binary tree](./src/tree_tag/diameter_of_binary_tree_543.rs) | rust |
 | 560 | [subarray sum equals k](./src/dp_tag/subarray_sum_equals_k_560.rs) | rust |
