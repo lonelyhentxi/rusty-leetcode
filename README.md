@@ -207,6 +207,7 @@ For a small amount of  questions without rust version, I will point out their pr
 | 538 | [convert bst to greater tree](./src/tree_tag/convert_bst_to_greater_tree_538.rs) | rust |
 | 543 | [diameter of binary tree](./src/tree_tag/diameter_of_binary_tree_543.rs) | rust |
 | 544 | [output contest matches](./src/string_tag/output_contest_matches_544.rs) | rust |
+| 545 | [boundary of binary tree](./src/tree_tag/boundary_of_binary_tree_545.rs) | rust |
 | 560 | [subarray sum equals k](./src/dp_tag/subarray_sum_equals_k_560.rs) | rust |
 | 572 | [subtree os another tree](./src/tree_tag/subtree_os_another_tree_572.rs) | rust |
 | 581 | [shortest unsorted continuous subarray](./src/sort_tag/shortest_unsorted_continuous_subarray_581.rs) | rust |
