@@ -29,4 +29,5 @@ pub mod range_addition_370;
 pub mod sequence_reconstruction_444;
 pub mod lonely_pixel_i_531;
 pub mod lonely_pixel_ii_533;
+pub mod split_array_with_equal_sum_548;
 pub mod daily_temperatures_739;
