@@ -29,4 +29,5 @@ pub mod construct_binary_tree_from_string_536;
 pub mod convert_bst_to_greater_tree_538;
 pub mod diameter_of_binary_tree_543;
 pub mod boundary_of_binary_tree_545;
+pub mod binary_tree_longest_consecutive_sequence_ii_549;
 pub mod merge_two_binary_trees_617;
