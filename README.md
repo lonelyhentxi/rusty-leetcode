@@ -210,6 +210,7 @@ For a small amount of  questions without rust version, I will point out their pr
 | 545 | [boundary of binary tree](./src/tree_tag/boundary_of_binary_tree_545.rs) | rust |
 | 548 | [split array with equal sum](./src/array_tag/split_array_with_equal_sum_548.rs) | rust |
 | 549 | [binary tree longest consecutive sequence ii](./src/tree_tag/binary_tree_longest_consecutive_sequence_ii_549.rs) | rust |
+| 555 | [split concatenated strings](./src/string_tag/split_concatenated_strings_555.rs) | rust |
 | 560 | [subarray sum equals k](./src/dp_tag/subarray_sum_equals_k_560.rs) | rust |
 | 572 | [subtree os another tree](./src/tree_tag/subtree_os_another_tree_572.rs) | rust |
 | 581 | [shortest unsorted continuous subarray](./src/sort_tag/shortest_unsorted_continuous_subarray_581.rs) | rust |
