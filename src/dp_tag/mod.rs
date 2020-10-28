@@ -25,3 +25,4 @@ pub mod max_consecutive_ones_ii_487;
 pub mod target_sum_494;
 pub mod subarray_sum_equals_k_560;
 pub mod longest_line_of_consecutive_one_in_matrix_562;
+pub mod maximum_vacation_days_568;
