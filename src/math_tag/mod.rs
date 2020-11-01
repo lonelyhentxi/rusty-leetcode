@@ -11,3 +11,4 @@ pub mod sort_transformed_array_360;
 pub mod hamming_distance_461;
 pub mod convex_polygon_469;
 pub mod find_permutation_484;
+pub mod squirrel_simulation_573;

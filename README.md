@@ -215,6 +215,7 @@ For a small amount of  questions without rust version, I will point out their pr
 | 562 | [longest line of consecutive one in matrix](./src/dp_tag/longest_line_of_consecutive_one_in_matrix_562.rs) | rust |
 | 568 | [maximum vacation days](./src/dp_tag/maximum_vacation_days_568.rs) | rust |
 | 572 | [subtree os another tree](./src/tree_tag/subtree_os_another_tree_572.rs) | rust |
+| 573 | [squirrel simulation](./src/math_tag/squirrel_simulation_573.rs) | rust |
 | 581 | [shortest unsorted continuous subarray](./src/sort_tag/shortest_unsorted_continuous_subarray_581.rs) | rust |
 | 617 | [merge two binary trees](./src/tree_tag/merge_two_binary_trees_617.rs) | rust |
 | 621 | [task scheduler](./src/greedy_tag/task_scheduler_621.rs) | rust |
