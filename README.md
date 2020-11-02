@@ -217,6 +217,7 @@ For a small amount of  questions without rust version, I will point out their pr
 | 572 | [subtree os another tree](./src/tree_tag/subtree_os_another_tree_572.rs) | rust |
 | 573 | [squirrel simulation](./src/math_tag/squirrel_simulation_573.rs) | rust |
 | 581 | [shortest unsorted continuous subarray](./src/sort_tag/shortest_unsorted_continuous_subarray_581.rs) | rust |
+| 582 | [kill process](./src/tree_tag/kill_process_582.rs) | rust |
 | 617 | [merge two binary trees](./src/tree_tag/merge_two_binary_trees_617.rs) | rust |
 | 621 | [task scheduler](./src/greedy_tag/task_scheduler_621.rs) | rust |
 | 647 | [palindromic substrings](./src/string_tag/palindromic_substrings_647.rs) | rust |
