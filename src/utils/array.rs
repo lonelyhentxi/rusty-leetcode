@@ -36,7 +36,7 @@ macro_rules! lc_matrix_s {
 macro_rules! lc_vec_s {
     ( $( $x:expr ),* ) => {
       {
-          let mut temp_vec = Vec::new();
+          let mut temp_vec = Vec::<String>::new();
           $(
               temp_vec.push( String::from( $x ) );
           )*

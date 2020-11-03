@@ -8,3 +8,4 @@ pub mod design_snake_game_353;
 pub mod logger_rate_limiter_359;
 pub mod design_hit_counter_362;
 pub mod design_phone_directory_379;
+pub mod design_in_memory_file_system_588;
