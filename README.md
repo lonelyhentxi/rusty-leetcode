@@ -218,6 +218,8 @@ For a small amount of  questions without rust version, I will point out their pr
 | 573 | [squirrel simulation](./src/math_tag/squirrel_simulation_573.rs) | rust |
 | 581 | [shortest unsorted continuous subarray](./src/sort_tag/shortest_unsorted_continuous_subarray_581.rs) | rust |
 | 582 | [kill process](./src/tree_tag/kill_process_582.rs) | rust |
+| 588 | [design in memory file system](./src/design_tag/design_in_memory_file_system_588.rs) | rust |
+| 604 | [design compressed string iterator](./src/design_tag/design_compressed_string_iterator_604.rs) | rust |
 | 617 | [merge two binary trees](./src/tree_tag/merge_two_binary_trees_617.rs) | rust |
 | 621 | [task scheduler](./src/greedy_tag/task_scheduler_621.rs) | rust |
 | 647 | [palindromic substrings](./src/string_tag/palindromic_substrings_647.rs) | rust |
