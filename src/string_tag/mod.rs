@@ -23,4 +23,5 @@ pub mod minimum_unique_word_abbreviation_411;
 pub mod find_all_anagrams_in_a_string_438;
 pub mod output_contest_matches_544;
 pub mod split_concatenated_strings_555;
+pub mod add_bold_tag_in_string_616;
 pub mod palindromic_substrings_647;
