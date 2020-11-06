@@ -220,8 +220,10 @@ For a small amount of  questions without rust version, I will point out their pr
 | 582 | [kill process](./src/tree_tag/kill_process_582.rs) | rust |
 | 588 | [design in memory file system](./src/design_tag/design_in_memory_file_system_588.rs) | rust |
 | 604 | [design compressed string iterator](./src/design_tag/design_compressed_string_iterator_604.rs) | rust |
+| 616 | [add bold tag in string](./src/string_tag/add_bold_tag_in_string_616.rs) | rust |
 | 617 | [merge two binary trees](./src/tree_tag/merge_two_binary_trees_617.rs) | rust |
 | 621 | [task scheduler](./src/greedy_tag/task_scheduler_621.rs) | rust |
+| 624 | [maximum distance in arrays](./src/array_tag/maximum_distance_in_arrays_624.rs) | rust |
 | 647 | [palindromic substrings](./src/string_tag/palindromic_substrings_647.rs) | rust |
 | 739 | [daily temperatures](./src/array_tag/daily_temperatures_739.rs) | rust |
 | 887 | [super egg drop](./src/dp_tag/super_egg_drop_887.rs) | rust |
