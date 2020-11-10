@@ -13,3 +13,4 @@ pub mod convex_polygon_469;
 pub mod find_permutation_484;
 pub mod squirrel_simulation_573;
 pub mod minimum_factorization_625;
+pub mod find_the_derangement_of_an_array_634;
