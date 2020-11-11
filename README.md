@@ -227,6 +227,7 @@ For a small amount of  questions without rust version, I will point out their pr
 | 625 | [minimum factorization](./src/math_tag/minimum_factorization_625.rs) | rust |
 | 631 | [design excel sum formula](./src/design_tag/design_excel_sum_formula_631.rs) | rust |
 | 634 | [find the derangement of an array](./src/math_tag/find_the_derangement_of_an_array_634.rs) | rust |
+| 635 | [design log storage system](./src/design_tag/design_log_storage_system_635.rs) | rust |
 | 647 | [palindromic substrings](./src/string_tag/palindromic_substrings_647.rs) | rust |
 | 739 | [daily temperatures](./src/array_tag/daily_temperatures_739.rs) | rust |
 | 887 | [super egg drop](./src/dp_tag/super_egg_drop_887.rs) | rust |
