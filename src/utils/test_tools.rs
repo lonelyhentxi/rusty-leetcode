@@ -35,3 +35,13 @@ macro_rules! to_s {
     String::from( $elem )
   }
 }
+
+#[macro_export]
+macro_rules! assert_feq {
+    ($p: expr, $q: expr) => {
+        assert_feq!($p, $q, 1e-64f);
+    };
+    ($p: expr, $q: expr, $sub: expr) => {
+        assert!(f64::abs( $p - $q) < $sub, "assert_feq {:?} {:?} {:?} failed", $p, $q, $sub);
+    };
+}

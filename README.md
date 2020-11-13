@@ -229,6 +229,7 @@ For a small amount of  questions without rust version, I will point out their pr
 | 634 | [find the derangement of an array](./src/math_tag/find_the_derangement_of_an_array_634.rs) | rust |
 | 635 | [design log storage system](./src/design_tag/design_log_storage_system_635.rs) | rust |
 | 642 | [design search autocomplete system](./src/design_tag/design_search_autocomplete_system_642.rs) | rust |
+| 644 | [maximum average subarray ii](./src/array_tag/maximum_average_subarray_ii_644.rs) | rust |
 | 647 | [palindromic substrings](./src/string_tag/palindromic_substrings_647.rs) | rust |
 | 739 | [daily temperatures](./src/array_tag/daily_temperatures_739.rs) | rust |
 | 887 | [super egg drop](./src/dp_tag/super_egg_drop_887.rs) | rust |
