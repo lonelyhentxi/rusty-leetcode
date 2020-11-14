@@ -231,6 +231,7 @@ For a small amount of  questions without rust version, I will point out their pr
 | 642 | [design search autocomplete system](./src/design_tag/design_search_autocomplete_system_642.rs) | rust |
 | 644 | [maximum average subarray ii](./src/array_tag/maximum_average_subarray_ii_644.rs) | rust |
 | 647 | [palindromic substrings](./src/string_tag/palindromic_substrings_647.rs) | rust |
+| 651 | [four keys keyboard](./src/dp_tag/four_keys_keyboard_651.rs) | rust |
 | 739 | [daily temperatures](./src/array_tag/daily_temperatures_739.rs) | rust |
 | 887 | [super egg drop](./src/dp_tag/super_egg_drop_887.rs) | rust |
 | 905 | [sort array by parity](./src/array_tag/sort_array_by_parity_905.rs) | rust |
