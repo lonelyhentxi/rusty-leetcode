@@ -14,3 +14,4 @@ pub mod find_permutation_484;
 pub mod squirrel_simulation_573;
 pub mod minimum_factorization_625;
 pub mod find_the_derangement_of_an_array_634;
+pub mod remove_9_660;
