@@ -7,18 +7,19 @@
     {
       "type": "lldb",
       "request": "launch",
-      "name": "Debug selected unit test",
+      "name": "Debug rust",
       "cargo": {
           "args": [
               "test",
               "--no-run",
+              "--lib"
           ],
           "filter": {
               "name": "rusty-leetcode",
               "kind": "lib"
           }
       },
-      "args": ["${selectedText}"],
+//      "args": ["${selectedText}"],
       "cwd": "${workspaceFolder}",
       "sourceLanguages": ["rust"]
   },

@@ -27,6 +27,7 @@ use crate::utils::tree::TreeNode;
 // }
 use std::rc::Rc;
 use std::cell::RefCell;
+
 impl Solution {
     pub fn check_equal_tree(root: Option<Rc<RefCell<TreeNode>>>) -> bool {
         let root_sum = Solution::sum_tree_rec(root.clone());

@@ -33,3 +33,4 @@ pub mod binary_tree_longest_consecutive_sequence_ii_549;
 pub mod kill_process_582;
 pub mod merge_two_binary_trees_617;
 pub mod equal_tree_partition_663;
+pub mod path_sum_iv_666;
