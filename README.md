@@ -236,6 +236,9 @@ For a small amount of  questions without rust version, I will point out their pr
 | 660 | [remove 9](./src/math_tag/remove_9_660.rs) | rust |
 | 663 | [equal tree partition](./src/tree_tag/equal_tree_partition_663.rs) | rust |
 | 666 | [path sum iv](./src/tree_tag/path_sum_iv_666.rs) | rust |
+| 681 | [next closest time](./src/string_tag/next_closest_time_681.rs) | rust |
+| 683 | [k empty slots](./src/array_tag/k_empty_slots_683.rs) | rust |
+| 694 | [number of distinct islands](./src/search_tag/number_of_distinct_islands_694.rs) | rust |
 | 739 | [daily temperatures](./src/array_tag/daily_temperatures_739.rs) | rust |
 | 887 | [super egg drop](./src/dp_tag/super_egg_drop_887.rs) | rust |
 | 905 | [sort array by parity](./src/array_tag/sort_array_by_parity_905.rs) | rust |

@@ -12,3 +12,4 @@ pub mod find_all_numbers_disappeared_in_an_array_448;
 pub mod the_maze_490;
 pub mod the_maze_iii_499;
 pub mod the_maze_ii_505;
+pub mod number_of_distinct_islands_694;
