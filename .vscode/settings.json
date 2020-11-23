@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "array": "cpp",
+    "istream": "cpp",
+    "tuple": "cpp",
+    "variant": "cpp",
+    "xutility": "cpp",
+    "*.tcc": "cpp",
+    "utility": "cpp"
+  }
+}

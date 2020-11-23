@@ -239,6 +239,7 @@ For a small amount of  questions without rust version, I will point out their pr
 | 681 | [next closest time](./src/string_tag/next_closest_time_681.rs) | rust |
 | 683 | [k empty slots](./src/array_tag/k_empty_slots_683.rs) | rust |
 | 694 | [number of distinct islands](./src/search_tag/number_of_distinct_islands_694.rs) | rust |
+| 702 | [search in a sorted array of unknown size](./src/search_tag/search_in_a_sorted_array_of_unknown_size_702.cpp) | cpp |
 | 739 | [daily temperatures](./src/array_tag/daily_temperatures_739.rs) | rust |
 | 887 | [super egg drop](./src/dp_tag/super_egg_drop_887.rs) | rust |
 | 905 | [sort array by parity](./src/array_tag/sort_array_by_parity_905.rs) | rust |
