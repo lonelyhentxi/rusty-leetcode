@@ -13,3 +13,4 @@ pub mod the_maze_490;
 pub mod the_maze_iii_499;
 pub mod the_maze_ii_505;
 pub mod number_of_distinct_islands_694;
+pub mod number_of_distinct_islands_i_711;
