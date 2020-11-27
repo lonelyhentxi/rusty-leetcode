@@ -13,3 +13,4 @@ pub mod design_compressed_string_iterator_604;
 pub mod design_excel_sum_formula_631;
 pub mod design_log_storage_system_635;
 pub mod design_search_autocomplete_system_642;
+pub mod max_stack_716;
