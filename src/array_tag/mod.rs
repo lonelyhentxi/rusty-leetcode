@@ -33,4 +33,5 @@ pub mod split_array_with_equal_sum_548;
 pub mod maximum_distance_in_arrays_624;
 pub mod maximum_average_subarray_ii_644;
 pub mod k_empty_slots_683;
+pub mod candy_crush_723;
 pub mod daily_temperatures_739;
