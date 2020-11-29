@@ -243,6 +243,8 @@ For a small amount of  questions without rust version, I will point out their pr
 | 708 | [insert into a sorted circular linked list](./src/linked_list_tag/insert_into_a_sorted_circular_linked_list_708.js) | javascript |
 | 711 | [number of distinct islands ii](./src/search_tag/number_of_distinct_islands_ii_711.rs) | rust |
 | 716 | [max stack](./src/design_tag/max_stack_716.rs) | rust |
+| 723 | [candy crush](./src/array_tag/candy_crush_723.rs) | rust |
+| 734 | [sentence similarity](./src/string_tag/sentence_similarity_734.rs) | rust |
 | 739 | [daily temperatures](./src/array_tag/daily_temperatures_739.rs) | rust |
 | 887 | [super egg drop](./src/dp_tag/super_egg_drop_887.rs) | rust |
 | 905 | [sort array by parity](./src/array_tag/sort_array_by_parity_905.rs) | rust |
