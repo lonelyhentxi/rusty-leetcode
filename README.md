@@ -247,6 +247,7 @@ For a small amount of  questions without rust version, I will point out their pr
 | 734 | [sentence similarity](./src/string_tag/sentence_similarity_734.rs) | rust |
 | 737 | [sentence similarity ii](./src/string_tag/sentence_similarity_ii_737.rs) | rust |
 | 739 | [daily temperatures](./src/array_tag/daily_temperatures_739.rs) | rust |
+| 742 | [closest leaf in a binary tree](./src/tree_tag/closest_leaf_in_a_binary_tree_742.rs) | rust |
 | 887 | [super egg drop](./src/dp_tag/super_egg_drop_887.rs) | rust |
 | 905 | [sort array by parity](./src/array_tag/sort_array_by_parity_905.rs) | rust |
 | 946 | [validate stack sequences](./src/greedy_tag/validate_stack_sequences_946.rs) | rust |
